@@ -3,7 +3,7 @@
 
 Site: https://userinyerface.com/
 |Step|Expecting result|
-|    |                | 
+|----|----------------|
 Test case 1
 Navigate to home page. Welcome page is open.
 Click the link (in text 'Please click HERE to GO to the next page') to navigate the next The '1' card is open. page.
